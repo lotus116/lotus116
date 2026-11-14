@@ -12,13 +12,13 @@
 
 ### 一些项目
 
-**[LectureFlow ↗](https://github.com/lotus116/LectureFlow)**  
+**[LectureFlow](https://github.com/lotus116/LectureFlow)**  
 英语课堂的实时理解与课后回顾。
 
-**[SideLens ↗](https://github.com/lotus116/SideLens)**  
+**[SideLens](https://github.com/lotus116/SideLens)**  
 探索人和 AI 协作时，另一种视角能带来什么。<sub>原型</sub>
 
-**[BuildLens ↗](https://github.com/lotus116/BuildLens)**  
+**[BuildLens](https://github.com/lotus116/BuildLens)**  
 Minecraft 建筑分析与辅助工具。
 
 <br>
@@ -27,4 +27,4 @@ Minecraft 建筑分析与辅助工具。
 
 人类的问题很多，我暂时只处理能复现的。
 
-<sub>封面基于提供的琪露诺插画改编 · Touhou Project</sub>
+<sub>封面：琪露诺 / Touhou Project · AI 辅助改编</sub>
