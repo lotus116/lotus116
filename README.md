@@ -1,8 +1,8 @@
 ![Qiu.](assets/banner-fumo.png)
 
-写代码，研究 AI，做些自己想用的东西。
+写代码，研究 AI，做些有乐子的东西。
 
-HKU · MSc Computer Science · AI / 人机协作 / Minecraft
+HKU · MSc Computer Science · AI / 人机协作 / gamer
 
 ### 一些项目
 
@@ -14,4 +14,4 @@ HKU · MSc Computer Science · AI / 人机协作 / Minecraft
 
 人类的问题很多，我暂时只处理能复现的。
 
-<sub>角落里是琪露诺 Fumo。她不参与技术决策。</sub>
+<sub>角落里是笨蛋 Fumo。她不参与技术决策。</sub>
