@@ -1,3 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 300"><defs><linearGradient id="ice" x2="1" y2="1"><stop stop-color="#e9f9ff"/><stop offset="1" stop-color="#b4e4fa"/></linearGradient><pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#78bbd6" stroke-opacity=".14"/></pattern></defs><rect width="960" height="300" rx="12" fill="url(#ice)"/><rect width="960" height="300" fill="url(#grid)"/><circle cx="790" cy="146" r="112" fill="white" opacity=".42"/><g fill="none" stroke="#78b9d9" stroke-width="2"><path d="M590 50v28m-14-21 28 14m-28 0 28-14M890 225v24m-12-18 24 12m-24 0 24-12"/></g><text x="44" y="48" font-family="monospace" font-size="12" letter-spacing="3" fill="#487c96">LOTUS116 / CURIOSITY LAB</text><text x="42" y="119" font-family="sans-serif" font-weight="800" font-size="46" fill="#16384d">因为好奇，所以做了。</text><text x="45" y="158" font-family="sans-serif" font-size="17" fill="#477186">AI · 产品 · 游戏 · 一些突发奇想</text><rect x="44" y="203" width="244" height="37" rx="7" fill="#fff" fill-opacity=".7"/><text x="60" y="227" font-family="monospace" font-size="13" fill="#40748c">❄ 兴趣驱动，偶尔编译。</text><text x="897" y="48" font-family="sans-serif" font-size="26" fill="#60a7c9">⑨</text>
-<!-- Original flat-vector Cirno fan-art study -->
-<g stroke="#386582" stroke-width="3" stroke-linejoin="round"><g fill="#f2fcff" stroke="#92cce5"><path d="M738 154 669 121 700 190Z"/><path d="M734 177 668 196 714 218Z"/><path d="M841 153 910 116 881 189Z"/><path d="M843 177 906 196 860 217Z"/></g><path d="M751 109 718 53 773 64 791 95 815 64 868 53 840 114" fill="#35678e"/><path d="M739 133Q731 78 789 78Q847 77 850 135L856 172 830 167 749 172 727 173Z" fill="#73c7ed"/><ellipse cx="790" cy="139" rx="45" ry="42" fill="#fff4ed"/><path d="M745 131 746 105Q782 75 829 103L841 133 817 120 815 101 789 128 785 105 761 131 761 113Z" fill="#73c7ed"/><path d="M756 179 729 238Q790 258 852 238L825 179Z" fill="#468bbd"/><path d="M757 181 789 203 824 181 811 168 767 168Z" fill="white"/><path d="m789 190-9 21 10 13 10-13Z" fill="#e87980"/><path d="M752 185 727 203 733 216 758 202M827 185l26 17-6 15-26-16" fill="#fff4ed"/><path d="M762 245v21h18v-19m22 0v19h18v-21" fill="#fff4ed"/><path d="M760 265h22v10h-30q-4-6 8-10m40 0h22q12 4 8 10h-30Z" fill="#345d7b"/><path d="M767 140h9m29 0h9" stroke-width="5"/><path d="M783 156q8 7 15-1" fill="none"/><path d="m757 152 10 1m47 0 10-1" stroke="#efa8a4" stroke-width="5"/></g><text x="727" y="292" font-family="monospace" font-size="9" fill="#4c8fac">IDEA TEMPERATURE: −⑨°C</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="230" viewBox="0 0 960 230" role="img" aria-label="Qiu. A small seated Cirno Fumo illustration in the corner.">
+<rect width="960" height="230" fill="#f3f2ef"/>
+<path d="M38 191H922" stroke="#d6d5d0"/>
+<text x="40" y="43" font-family="monospace" font-size="11" letter-spacing="2" fill="#777974">LOTUS116</text>
+<text x="36" y="126" font-family="Georgia,serif" font-size="72" fill="#262b2d">Qiu.</text>
+<text x="40" y="164" font-family="monospace" font-size="12" fill="#6c7477">CODE / AI / OTHER DISTRACTIONS</text>
+<!-- Original restrained vector fan art of a seated Cirno-style Fumo plush. -->
+<g transform="translate(775 39)" stroke="#505b64" stroke-width="1.6" stroke-linejoin="round">
+<ellipse cx="64" cy="139" rx="67" ry="7" fill="#e0dfd9" stroke="none"/>
+<g fill="#dce6e9" stroke="#aab9bf"><path d="M26 77 0 62 10 95Z"/><path d="M25 96 0 106 22 115Z"/><path d="m99 77 30-15-11 33Z"/><path d="m102 96 27 10-22 9Z"/></g>
+<path d="M44 97Q62 85 83 97L101 128Q66 144 26 127Z" fill="#637e9d"/>
+<path d="M34 99Q18 93 17 106L18 122Q23 130 33 122L43 107M92 99q16-6 17 7l-1 16q-5 8-15 0l-10-15" fill="#ebe0d3"/>
+<path d="m43 91 21 15 22-15-7 21-15-6-14 5Z" fill="#f2eee6"/>
+<path d="m64 103-6 17 8 5 6-8Z" fill="#9b5757"/>
+<ellipse cx="36" cy="129" rx="23" ry="13" fill="#ebe0d3" transform="rotate(-12 36 129)"/>
+<ellipse cx="93" cy="129" rx="23" ry="13" fill="#ebe0d3" transform="rotate(12 93 129)"/>
+<path d="M27 39 18 4 52 13 63 27 78 12 109 3 104 42" fill="#526f90"/>
+<path d="m28 11 18 11-15 7m64-17-16 11 17 5" fill="none" stroke="#7188a2"/>
+<path d="M13 63Q7 20 62 20q55 0 52 44l5 30-25 7H31L8 91Z" fill="#90b4c5"/>
+<ellipse cx="64" cy="66" rx="43" ry="35" fill="#eee2d2"/>
+<path d="M20 59 23 39Q59 18 100 40l8 21-19-8-8-15-11 20-11-15-14 16-4-17Z" fill="#90b4c5"/>
+<g stroke="#414c57" stroke-width="2.2"><path d="M37 62q6-4 13 0m29 0q7-4 13 0" fill="none"/><ellipse cx="44" cy="69" rx="4.2" ry="7" fill="#536e8b"/><ellipse cx="85" cy="69" rx="4.2" ry="7" fill="#536e8b"/></g>
+<path d="M60 83q4 2 8 0" fill="none" stroke-width="1.3"/>
+<path d="m29 79 9 1m52 0 9-1" stroke="#c8a8a0" stroke-width="2.5"/>
+<path d="M18 63q-2 18 8 27m83-27q2 18-8 27" fill="none" stroke="#adc6d0" stroke-dasharray="2 3"/>
+</g></svg>
