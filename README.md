@@ -1,4 +1,4 @@
-![Qiu.](assets/banner.svg)
+![Qiu.](assets/banner-fumo.png)
 
 写代码，研究 AI，做些自己想用的东西。
 
