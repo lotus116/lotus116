@@ -1,30 +1,17 @@
-<p align="center">
-  <img src="assets/banner-cirno.png" width="100%" alt="Qiu. — 琪露诺主题封面">
-</p>
+<img align="right" src="assets/beach.png" width="45%" alt="琪露诺与大妖精在海滩晒太阳">
 
-<br>
+**Qiu.** &nbsp; <sub>HKU · MSc Computer Science</sub>
 
-**写代码，研究 AI，做些有乐子的东西。**
+### Stay hungry, stay BAKA
 
-<sub>HKU · MSc Computer Science &nbsp; / &nbsp; AI · 人机协作 · gamer</sub>
+写代码，研究 AI，做些有乐子的东西。
 
-<br>
+<sub>AI · 人机协作 · gamer</sub>
 
-### 一些项目
+<sub>项目里用到的<br>
+<b>AI / 数据</b> &nbsp; Python · SQL · RAG<br>
+<b>游戏 / Mod</b> &nbsp; Java · Fabric · C#</sub>
 
-**[LectureFlow](https://github.com/lotus116/LectureFlow)**  
-英语课堂的实时理解与课后回顾。
+<br clear="both">
 
-**[SideLens](https://github.com/lotus116/SideLens)**  
-探索人和 AI 协作时，另一种视角能带来什么。<sub>原型</sub>
-
-**[BuildLens](https://github.com/lotus116/BuildLens)**  
-Minecraft 建筑分析与辅助工具。
-
-<br>
-
----
-
-人类的问题很多，我暂时只处理能复现的。
-
-<sub>封面：琪露诺 / Touhou Project · AI 辅助改编</sub>
+<!-- Artwork: Cirno & Daiyousei / Touhou Project · AI-generated illustration. -->
